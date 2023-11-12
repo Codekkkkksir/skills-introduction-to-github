@@ -1,1 +1,1 @@
-welcome to my first github profike
+welcome to my first github profile
